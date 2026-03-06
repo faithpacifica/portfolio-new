@@ -1,6 +1,6 @@
 function App() {
   return <>
-  <h1 className="text-blue-700 text-7xl">
+  <h1 className="text-white text-7xl">
 
   PORTFOLIO
   </h1>
